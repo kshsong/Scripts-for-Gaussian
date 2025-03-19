@@ -1,6 +1,8 @@
 #!/bin/bash
 # This script is used to extract the results, including energies, vibrational frequencies,
 # and optimized structures from Gaussian log files.
+# Author: Kaisheng Song
+# Email: songks@foxmail.com
 #
 # 在高斯优化结构/频率计算目录下执行此脚本
 # 脚本正常运行后会生成三个最终文件 Freq.out Energy.out optimized_structure.xyz
